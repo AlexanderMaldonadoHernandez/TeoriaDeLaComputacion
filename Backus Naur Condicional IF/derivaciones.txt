@@ -1,0 +1,32 @@
+S
+
+Regla: S -> iCtSA
+iCtSA
+
+Regla: A -> ;eS
+iCtS;eS
+
+Regla: S -> iCtSA
+iCtiCtSA;eS
+
+Regla: S -> iCtSA
+iCtiCtiCtSAA;eS
+
+Regla: A -> ;eS
+iCtiCtiCtSA;eS;eS
+
+Regla: S -> iCtSA
+iCtiCtiCtSA;eiCtSA;eS
+
+Regla: A -> ;eS
+iCtiCtiCtS;eS;eiCtSA;eS
+
+Regla: A -> ε
+iCtiCtiCtS;eS;eiCtS;eS
+
+Regla: S -> iCtSA
+iCtiCtiCtS;eS;eiCtiCtSA;eS
+
+Regla: A -> ε
+iCtiCtiCtS;eS;eiCtiCtS;eS
+

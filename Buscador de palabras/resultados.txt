@@ -1,0 +1,16 @@
+===== RESUMEN DE PALABRAS ACEPTADAS =====
+Nota: Las posiciones se expresan en coordenadas (x,y) donde 'x' es el número de columna y 'y' el número de fila
+
+Palabra: 'struct' | Apariciones: 2 | Posiciones: (11,3), (9,5)
+Palabra: 'int' | Apariciones: 11 | Posiciones: (19,3), (5,6), (7,12), (7,13), (7,14), (1,17), (5,24), (10,27), (48,27), (11,35), (11,37)
+Palabra: 'float' | Apariciones: 4 | Posiciones: (24,3), (5,7), (5,25), (5,32)
+Palabra: 'return' | Apariciones: 3 | Posiciones: (31,3), (5,40), (19,40)
+Palabra: 'if' | Apariciones: 3 | Posiciones: (39,3), (5,34), (36,34)
+Palabra: 'else' | Apariciones: 3 | Posiciones: (43,3), (7,36), (18,36)
+Palabra: 'for' | Apariciones: 3 | Posiciones: (49,3), (5,27), (43,27)
+Palabra: 'typedef' | Apariciones: 2 | Posiciones: (54,3), (1,5)
+Palabra: 'void' | Apariciones: 2 | Posiciones: (63,3), (1,11)
+Palabra: 'const' | Apariciones: 3 | Posiciones: (69,3), (5,8), (21,11)
+Palabra: 'char' | Apariciones: 1 | Posiciones: (11,8)
+Palabra: 'sizeof' | Apariciones: 3 | Posiciones: (17,24), (33,24), (53,24)
+Palabra: 'do' | Apariciones: 1 | Posiciones: (30,35)

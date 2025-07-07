@@ -1,0 +1,20 @@
+if (condition) {
+    if (condition) {
+        if (condition) {
+            statement;
+        }
+        else {
+            statement;
+        }
+    }
+    else {
+        if (condition) {
+            if (condition) {
+                statement;
+            }
+        }
+    }
+}
+else {
+    statement;
+}
